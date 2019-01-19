@@ -5,6 +5,8 @@ Monitor the network bandwidth of all processes. Has the option to record the dat
 
 # Screenshot
 
+![screen](docs/images/screen.png?raw=true "clawmonui")
+
 
 # Commandline
 
