@@ -1,6 +1,6 @@
 # bandwidthmonitor in C#
 
-Monitor the network bandwidth of all processes. Has the option to record the data only if the mobile connection is active. Uses windows event tracing.
+Monitors the network bandwidth of all processes. Has the option to record the data only if the mobile connection is active. Uses windows event tracing.
 
 
 # Screenshot
